@@ -1,0 +1,6 @@
+Segment,Industry,MQLs,Conversion_Rate_Pct,Pipeline_USD,CPL_USD,Avg_Deal_Size_USD,Priority_Score,Priority_Label,ABM_Enabled
+Tech_SaaS,Technology,2840,5.2,1400000,38,44100,90,High,Yes
+Healthcare,Healthcare,1920,4.1,980000,41,39200,72,High,Yes
+Retail,Retail,1640,3.3,610000,44,22600,55,Medium,No
+Financial_Services,Financial Services,1180,2.8,480000,48,24000,44,Medium,Yes
+Manufacturing,Manufacturing,760,1.9,220000,62,20000,28,Low,No

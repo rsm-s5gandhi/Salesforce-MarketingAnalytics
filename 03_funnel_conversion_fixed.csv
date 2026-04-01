@@ -1,0 +1,7 @@
+Stage,Stage_Order,Volume,Conversion_Rate_Pct,Drop_Off_Pct,Stage_Type
+Impressions,1,312000,100.0,0.0,Awareness
+Clicks,2,97000,31.1,68.9,Awareness
+MQLs,3,8340,8.6,22.5,Consideration
+SQLs,4,2920,3.0,5.6,Consideration
+Opportunities,5,840,1.1,1.9,Decision
+Closed Won,6,317,0.38,0.72,Revenue
