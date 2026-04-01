@@ -1,9 +1,7 @@
 # Marketing Analytics Command Center
 ### Salesforce Planning & Strategy — 2025
 
-An end-to-end marketing analytics dashboard built to mirror the 
-core responsibilities of a Marketing Planning & Strategy Analyst 
-role — automated reporting, cross-system data harmonization, 
+An end-to-end marketing analytics dashboard — automated reporting, cross-system data harmonization, 
 KPI standardization, and real-time visibility for marketing teams.
 
 ## Dashboard Overview
