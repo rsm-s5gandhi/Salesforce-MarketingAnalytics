@@ -5,7 +5,8 @@ An end-to-end marketing analytics dashboard — automated reporting, cross-syste
 KPI standardization, and real-time visibility for marketing teams.
 
 ## Dashboard Overview
-<img width="2798" height="1898" alt="Salesforce Marketing Analytics Dashboard" src="https://github.com/user-attachments/assets/f42d30ad-f32b-491d-8d05-3866ccd23069" />
+<img width="2798" height="1898" alt="Dashboard 1-2" src="https://github.com/user-attachments/assets/8cd1015b-b5bb-4725-9c0f-250b0ddfe1f1" />
+
 
 🔗 [View on Tableau Public](https://public.tableau.com/views/MarketingAnalyticsCommandCenterSalesforce/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
