@@ -1,4 +1,4 @@
-# Marketing Analytics Command Center
+# Marketing Analytics
 ### Salesforce Planning & Strategy — 2025
 
 An end-to-end marketing analytics dashboard — automated reporting, cross-system data harmonization, 
