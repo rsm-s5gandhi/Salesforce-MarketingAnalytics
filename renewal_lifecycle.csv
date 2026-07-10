@@ -1,0 +1,7 @@
+Stage,Stage_Order,Account_Count,Stage_Pct,Drop_Off_Pct,Stage_Type
+Renewal Eligible,1,1000,100.0,0.0,Pipeline
+Contacted,2,970,97.0,3.0,Outreach
+Engaged,3,940,94.0,3.1,Engagement
+Renewal Discussion,4,920,92.0,2.1,Active
+Negotiation,5,925,92.5,0.0,Active
+Renewed,6,914,91.4,1.2,Closed

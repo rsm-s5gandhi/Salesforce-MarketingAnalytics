@@ -1,0 +1,8 @@
+KPI,Value,Numerator,Denominator,Formula,Business_Assumption
+Renewal ARR,$18.4M,Sum of renewed ARR across all segments,,SUM(Segment_ARR),Synthetic portfolio representing mid-large enterprise SaaS book of business
+Renewal Opportunities,1000,Total renewal eligible accounts,,COUNT(eligible_accounts),Accounts with contracts expiring in FY2025
+Renewal Rate,91.4%,914 renewed accounts,1000 eligible accounts,Renewed/Eligible,Benchmark range for mature enterprise SaaS: 85-95%
+Forecast Accuracy,96.2%,$18.4M actual,$19.1M forecasted,Actual/Forecasted ARR,Forecasted $19.1M at start of quarter; actual came in at $18.4M
+Target Attainment,109%,$18.4M actual ARR,$16.88M target,Actual/Target,Annual target set at $16.88M; exceeded by 9pts
+Gross Retention Rate,93.8%,ARR retained,Beginning period ARR,Retained ARR/Beginning ARR,Excludes expansions and upsells; pure retention metric
+Churn Rate,8.6%,86 churned accounts,1000 eligible,Churned/Eligible,1 minus Renewal Rate
