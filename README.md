@@ -5,7 +5,7 @@ An executive-level renewal forecasting dashboard built in **Tableau** to monitor
 ---
 
 # Dashboard Overview
-<img width="2298" height="2318" alt="Dashboard 1-8" src="https://github.com/user-attachments/assets/ce9f307b-0399-4eb4-94d9-4087d1f0f45f" />
+<img width="1534" height="1528" alt="Image 8-1-26 at 7 41 AM" src="https://github.com/user-attachments/assets/0be5864d-3d02-4873-be46-3dab3e11063a" />
 
 🔗 **View the Interactive Dashboard**
 https://public.tableau.com/views/RenewalsForecasting/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
