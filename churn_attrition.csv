@@ -1,6 +1,0 @@
-Segment,Renewal_Eligible,Renewed,Churned,Renewal_Rate_Pct,Churn_Rate_Pct,Segment_ARR_USD,ARR_At_Risk_USD,Priority
-Enterprise,280,267,13,95.4,4.6,5520000,256286,High
-Strategic,195,182,13,93.3,6.7,3680000,245333,High
-Mid Market,240,214,26,89.2,10.8,4600000,498333,Medium
-SMB,185,158,27,85.4,14.6,2760000,402811,Medium
-Commercial,100,93,7,93.0,7.0,1840000,128800,Low
