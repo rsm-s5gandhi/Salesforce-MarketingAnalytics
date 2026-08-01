@@ -1,6 +1,4 @@
-# Renewal Forecasting Executive Dashboard
-
-### Enterprise SaaS Renewal Analytics | Tableau Public | 2025
+# Renewal Forecasting Executive Dashboard | Enterprise SaaS Renewal Analytics
 
 An executive-level renewal forecasting dashboard built in **Tableau** to monitor renewal health, forecasted revenue at risk, churn drivers, customer prioritization, and quarterly renewal trends. The dashboard is designed to help business leaders quickly identify high-risk renewals, prioritize retention efforts, and support executive decision-making through interactive visual analytics.
 
